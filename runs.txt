@@ -1,0 +1,12 @@
+// First API for authentication
+(venv) PS D:\Curiosity\auth> python manage.py runserver 8001
+
+// Second API for contacts
+(venv) PS D:\Curiosity\contacts\contact_api> python manage.py runserver 8002
+
+// Third API for messages
+(venv) PS D:\Curiosity\messages\messages_project> python manage.py runserver 8003
+
+// Fourth API for cargoes 
+(venv) PS D:\Curiosity\book_manager\backend> python manage.py runserver 8004
+
